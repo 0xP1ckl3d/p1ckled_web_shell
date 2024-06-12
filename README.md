@@ -2,6 +2,8 @@
 
 ### An Advanced Webshell for Pentesting
 
+![Webshell Screenshot](Screenshot.png)
+
 ## Overview
 
 This advanced webshell is designed for pentesters to leverage during engagements where an arbitrary file upload vulnerability is discovered. It offers several advanced features that go beyond typical webshells, enabling comprehensive recon and interaction with the target server without needing to reload the page.
